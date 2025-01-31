@@ -1,7 +1,6 @@
 .page {
   font-family: "Inter", sans-serif;
   background-color: var(--background-page-color);
-  height: 100vh;
   min-height: fit-content;
   min-width: fit-content;
   display: flex;
