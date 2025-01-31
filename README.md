@@ -118,13 +118,13 @@ Os usuários devem ser capazes de:
 #### Computador
 
 <p align="center">
-  <img src="./src/design/desktop-screenshot.png" alt="Desktop Screenshot of live page" title="Desktop Screenshot of live page" width="600" />
+  <img src="./src/design/desktop-screenshot.png" alt="Print da tela no Desktop" title="Print da tela no Desktop" width="600" />
 </p>
 
 #### Celular
 
 <p align="center">
-  <img src="./src/design/mobile-screenshot.png" alt="Mobile Screenshot of live page" title="Mobile Screenshot of live page" width="300" />
+  <img src="./src/design/mobile-screenshot.png" alt="Print da tela no Celular" title="Print da tela no Celular" width="300" />
 </p>
 
 ### <p id="links-pt">Links</p>
