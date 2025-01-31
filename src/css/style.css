@@ -7,7 +7,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 128px 0;
+  padding: 124px 0;
 }
 
 /* CARD */
@@ -50,6 +50,7 @@
 .section--preparation {
   background-color: var(--background-preparation-color);
   padding: 24px;
+  border-radius: 12px;
 }
 
 .section__header {
@@ -104,11 +105,16 @@
   font-weight: var(--text4-font-weight);
   line-height: var(--text4-line-height);
   letter-spacing: var(--text4-letter-spacing);
-  padding-left: 20px;
+  padding-left: 24px;
 }
 
 .list__item::marker {
   color: var(--marker-color);
+  font-family: var(--text4-font-family);
+  font-size: var(--text4-font-size);
+  font-weight: var(--text4bold-font-weight);
+  line-height: var(--text4-line-height);
+  letter-spacing: var(--text4-letter-spacing);
 }
 
 .list--preparation .list__item::marker {
