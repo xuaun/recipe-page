@@ -1,0 +1,30 @@
+/* TABLET */
+
+@media (max-width: 770px) {
+  .card {
+    width: 616px;
+  }
+
+  .banner__img {
+    width: 536px;
+  }
+}
+
+/* MOBILE */
+
+@media (max-width: 616px) {
+  .page {
+    padding: 0;
+  }
+
+  .card {
+    width: 100vw;
+    padding: 0 32px 40px;
+    border-radius: 0;
+  }
+
+  .banner__img {
+    width: 100vw;
+    border-radius: 0;
+  }
+}
