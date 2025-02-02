@@ -57,7 +57,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-In this project I was able to use flexbox, and variable, and media query concepts in CSS, as well as using a ready-made Figma design to create this component.
+In this project I was able to use flexbox, variable, and media query concepts in CSS, as well as using a ready-made Figma design to create this component.
 
 I was also able to train how to use `<table>` tags and class naming using the BEM methodology.
 
