@@ -96,7 +96,6 @@ Esta é uma solução para o [desafio de página de receita no Frontend Mentor](
 ## Lista de conteúdos
 
 - [Visão Geral](#visão-geral)
-  - [Desafio](#desafio)
   - [Prints](#prints)
   - [Links](#links-pt)
 - [Meu processo](#meu-processo)
@@ -106,12 +105,6 @@ Esta é uma solução para o [desafio de página de receita no Frontend Mentor](
 - [Autor](#autor)
 
 ## Visão Geral
-
-### Desafio
-
-Os usuários devem ser capazes de:
-
-- Ver estados de foco e hover para todos os elementos interativos na página
 
 ### Prints
 
